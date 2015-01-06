@@ -180,8 +180,8 @@ hr {
 footer {
   width:270px;
   float:left;
-  bottom:20px;
-  position:fixed;
+  bottom:0px;
+  position:absolute;
 }
 
 @media print, screen and (max-width: 960px) {
