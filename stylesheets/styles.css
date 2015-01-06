@@ -48,7 +48,7 @@ a small {
 
 .wrapper {
   width:860px;
-  margin:0 auto;
+  margin:0 auto -142px;
 }
 
 blockquote {
@@ -177,12 +177,10 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
+footer, .push {
   width:270px;
   float:left;
-  position:absolute;
-  bottom:0;
-  height:15px;
+  height:142px;
 }
 
 @media print, screen and (max-width: 960px) {
