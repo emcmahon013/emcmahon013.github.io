@@ -1,0 +1,7 @@
+_site
+.DS_Store
+assets/.DS_Store
+assets/index/.DS_Store
+stylesheets/.DS_Store
+Gemfile.lock
+Gemfile
